@@ -1,0 +1,1152 @@
+fileFormatVersion: 2
+guid: e46fa3cd7a181224d966b221cd8bae84
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 45_Degree_Shot_0
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 18
+        width: 6971
+        height: 4307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea02b8b903fcca44be7f9fba43f1876
+      internalID: 1277917548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_1
+      rect:
+        serializedVersion: 2
+        x: 7064
+        y: 4169
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0d571cc721b5a4fb9b997c15191b32
+      internalID: 1453403974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_2
+      rect:
+        serializedVersion: 2
+        x: 7085
+        y: 4127
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a796ef127cf7db446adf464f23590f06
+      internalID: 156188377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_3
+      rect:
+        serializedVersion: 2
+        x: 7106
+        y: 4064
+        width: 4
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4418b2c4479e4d4fbd069e14089de85
+      internalID: -1933921223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_4
+      rect:
+        serializedVersion: 2
+        x: 7106
+        y: 4037
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacae79f29b73cd4c8914cfbe477daec
+      internalID: -242748798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_5
+      rect:
+        serializedVersion: 2
+        x: 7064
+        y: 3821
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee0344ba4161b94b846376f0e7c9ba9
+      internalID: -660911206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_6
+      rect:
+        serializedVersion: 2
+        x: 7064
+        y: 2147
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ce542c35a2a1d44b13c2b5ec1e4f63
+      internalID: -200662908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_7
+      rect:
+        serializedVersion: 2
+        x: 7064
+        y: 2064
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffcab7af3cd5114ab1f6980bb44243e
+      internalID: 1595794289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_8
+      rect:
+        serializedVersion: 2
+        x: 7085
+        y: 2001
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4efc5ec2b8ecb43a1043e0d3d802ea
+      internalID: -1915994464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_9
+      rect:
+        serializedVersion: 2
+        x: 7085
+        y: 1959
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01016a424ec45534081defb3d67cfa23
+      internalID: -970231879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_10
+      rect:
+        serializedVersion: 2
+        x: 7085
+        y: 1789
+        width: 4
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0669a605a972684f9544c0b16c01d4c
+      internalID: -510146490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_11
+      rect:
+        serializedVersion: 2
+        x: 7064
+        y: 1668
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8723553c8b1716449521e9b724b038e
+      internalID: 1856971660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_12
+      rect:
+        serializedVersion: 2
+        x: 7064
+        y: 1608
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d77c211b1d213d4bbe69da75d6d29cd
+      internalID: 902701787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_13
+      rect:
+        serializedVersion: 2
+        x: 7064
+        y: 1574
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a95be291b347a449605aea74a82a70
+      internalID: 1223614317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_14
+      rect:
+        serializedVersion: 2
+        x: 7064
+        y: 1105
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7947385ab087149a9ead8e102f2de7
+      internalID: -2025276488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_15
+      rect:
+        serializedVersion: 2
+        x: 7085
+        y: 563
+        width: 4
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da458eeaa9102b449911135773507941
+      internalID: 611449825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_16
+      rect:
+        serializedVersion: 2
+        x: 7085
+        y: 479
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3197946030b7f97418f61ab34632d8a8
+      internalID: 1292600517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 35
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6e40c3252631749875fb556e25284f
+      internalID: -458436933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_18
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 24
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef49ad31d041414cbd183c46ee0ca32
+      internalID: -31726933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_19
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 24
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffed6188dbd8dbc45ab38344fc7f988c
+      internalID: -233758472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_20
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 31
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08cc09d05642064b9d84c1db592a49a
+      internalID: -162276160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_21
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 38
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8290947d286597448efcce48579bb83
+      internalID: -78257437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_22
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 24
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4451c7782e8f74479ffbc1b1835890b
+      internalID: -409421607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_23
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 35
+        width: 62
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61d46a40880cc24c9751fe48bab4982
+      internalID: -892181994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_24
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 24
+        width: 146
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92518e7409299a34b953bcf16df5da31
+      internalID: -642281404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_25
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 35
+        width: 45
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2693ce4234ca5bc439c7d98c7eecc744
+      internalID: 1526083097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_26
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 38
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664a8ec536b8d4b41aa7500b5c2d6aca
+      internalID: 1949546221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_27
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 38
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8c6e5a33fd0e34ca3771cef9bfbf22
+      internalID: 163414996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_28
+      rect:
+        serializedVersion: 2
+        x: 3209
+        y: 35
+        width: 84
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c20a0452e87f6f4d8eaada1ad10c3e1
+      internalID: -1440145689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_29
+      rect:
+        serializedVersion: 2
+        x: 3314
+        y: 38
+        width: 103
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0c7b4a4e142ab4fae73d07e6e61c46
+      internalID: -1181824989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_30
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 35
+        width: 125
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22a0832cc0ebcd4ca5a8fdf5375289c
+      internalID: 644483900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_31
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 38
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199519929b97c684b8c46cd19271b826
+      internalID: -195177798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_32
+      rect:
+        serializedVersion: 2
+        x: 4519
+        y: 35
+        width: 191
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a245efd79efbbcd48b1e251f7e84a6df
+      internalID: 361032044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_33
+      rect:
+        serializedVersion: 2
+        x: 4731
+        y: 38
+        width: 62
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bf43312ea819b4785796966e1f4a1c
+      internalID: -368356217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_34
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 35
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a772ed83c9e07348946947c75a06218
+      internalID: -2131457311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_35
+      rect:
+        serializedVersion: 2
+        x: 5224
+        y: 38
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24ac35deb8e9254e8391d21f0d941c2
+      internalID: -1758749685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_36
+      rect:
+        serializedVersion: 2
+        x: 5501
+        y: 35
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd7768f0fd8a8b48a384f4786d8209c
+      internalID: 1416492394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_37
+      rect:
+        serializedVersion: 2
+        x: 6793
+        y: 35
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae4f4205bdf65e4bb2365ed440efc20
+      internalID: 899701938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_38
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 17
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174681ff4bd5ec3429c7d611575518d5
+      internalID: -660045490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_39
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 17
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cdeee35dc9b2a45a155ab1b08b4044
+      internalID: 1258627762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_40
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 10
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b52564236563fb4e84df3c7d660fe6b
+      internalID: -988754545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_41
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 10
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b270773c7723041b9d2a933a2fdcca
+      internalID: -52411777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_42
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 17
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beda00a53eb33fa48b73775489c7c0ad
+      internalID: 58174156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_43
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 17
+        width: 181
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dcfe1d15eab4445a45fccccd3d0c9e
+      internalID: -554970701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_44
+      rect:
+        serializedVersion: 2
+        x: 5397
+        y: 11
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bcab39b7e09884b9c1982e1906ae5c
+      internalID: -1810688310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 45_Degree_Shot_45
+      rect:
+        serializedVersion: 2
+        x: 6884
+        y: 17
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2c6d5103e28a74c8b60b7967f83955
+      internalID: 1563190172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4c7a48b03e55bfe4b895d794f2110ee0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      45_Degree_Shot_0: 1277917548
+      45_Degree_Shot_1: 1453403974
+      45_Degree_Shot_10: -510146490
+      45_Degree_Shot_11: 1856971660
+      45_Degree_Shot_12: 902701787
+      45_Degree_Shot_13: 1223614317
+      45_Degree_Shot_14: -2025276488
+      45_Degree_Shot_15: 611449825
+      45_Degree_Shot_16: 1292600517
+      45_Degree_Shot_17: -458436933
+      45_Degree_Shot_18: -31726933
+      45_Degree_Shot_19: -233758472
+      45_Degree_Shot_2: 156188377
+      45_Degree_Shot_20: -162276160
+      45_Degree_Shot_21: -78257437
+      45_Degree_Shot_22: -409421607
+      45_Degree_Shot_23: -892181994
+      45_Degree_Shot_24: -642281404
+      45_Degree_Shot_25: 1526083097
+      45_Degree_Shot_26: 1949546221
+      45_Degree_Shot_27: 163414996
+      45_Degree_Shot_28: -1440145689
+      45_Degree_Shot_29: -1181824989
+      45_Degree_Shot_3: -1933921223
+      45_Degree_Shot_30: 644483900
+      45_Degree_Shot_31: -195177798
+      45_Degree_Shot_32: 361032044
+      45_Degree_Shot_33: -368356217
+      45_Degree_Shot_34: -2131457311
+      45_Degree_Shot_35: -1758749685
+      45_Degree_Shot_36: 1416492394
+      45_Degree_Shot_37: 899701938
+      45_Degree_Shot_38: -660045490
+      45_Degree_Shot_39: 1258627762
+      45_Degree_Shot_4: -242748798
+      45_Degree_Shot_40: -988754545
+      45_Degree_Shot_41: -52411777
+      45_Degree_Shot_42: 58174156
+      45_Degree_Shot_43: -554970701
+      45_Degree_Shot_44: -1810688310
+      45_Degree_Shot_45: 1563190172
+      45_Degree_Shot_5: -660911206
+      45_Degree_Shot_6: -200662908
+      45_Degree_Shot_7: 1595794289
+      45_Degree_Shot_8: -1915994464
+      45_Degree_Shot_9: -970231879
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
